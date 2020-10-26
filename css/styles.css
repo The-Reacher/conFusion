@@ -27,3 +27,13 @@
     margin: 0px;
     color: #0f0f0f;
 }
+
+body{
+    padding-top: 50px; /* give a top padding for navbar to not cover the body of the page when the navbar is set on fixed*/
+    z-index: 0;
+
+}
+
+.navbar-dark{
+    background-color: #512DA8;
+}
