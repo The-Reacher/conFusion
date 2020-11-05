@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48de7303-b864-43c5-9bae-477fb845a735" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,12 @@
       <workItem from="1603378899195" duration="1308000" />
       <workItem from="1603452240139" duration="5605000" />
       <workItem from="1603558859168" duration="12306000" />
-      <workItem from="1603751780749" duration="5810000" />
+      <workItem from="1603751780749" duration="6516000" />
+      <workItem from="1603796689819" duration="894000" />
+      <workItem from="1603940744134" duration="184000" />
+      <workItem from="1603975667902" duration="136000" />
+      <workItem from="1603979538966" duration="734000" />
+      <workItem from="1604577616486" duration="1174000" />
     </task>
     <servers />
   </component>
@@ -54,6 +58,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="466" y="155" width="426" height="479" key="FileChooserDialogImpl" timestamp="1603975802632">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="466" y="155" width="426" height="479" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1603975802632" />
     <state x="346" y="177" key="run.anything.popup" timestamp="1603754921921">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
