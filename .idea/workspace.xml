@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="48de7303-b864-43c5-9bae-477fb845a735" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,8 @@
       <workItem from="1604577616486" duration="3909000" />
       <workItem from="1604585883471" duration="38453000" />
       <workItem from="1604765723228" duration="2535000" />
-      <workItem from="1604873522770" duration="579000" />
+      <workItem from="1604873522770" duration="2425000" />
+      <workItem from="1604878489468" duration="1455000" />
     </task>
     <servers />
   </component>
@@ -68,10 +70,10 @@
     </state>
     <state width="700" height="613" key="SwitcherDM/1920.312.1366.768/0.25.1920.1055@0.25.1920.1055" timestamp="1604625303051" />
     <state width="498" height="446" key="SwitcherDM/1920.312.1366.768/0.25.1920.1055@1920.312.1366.768" timestamp="1604612140120" />
-    <state x="486" y="241" key="run.anything.popup" timestamp="1604765817434">
+    <state x="486" y="241" key="run.anything.popup" timestamp="1604876156285">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="346" y="177" key="run.anything.popup/0.25.1366.743@0.25.1366.743" timestamp="1603754921921" />
-    <state x="486" y="241" key="run.anything.popup/1920.312.1366.768/0.25.1920.1055@0.25.1920.1055" timestamp="1604765817434" />
+    <state x="486" y="241" key="run.anything.popup/1920.312.1366.768/0.25.1920.1055@0.25.1920.1055" timestamp="1604876156285" />
   </component>
 </project>
