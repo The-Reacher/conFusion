@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="48de7303-b864-43c5-9bae-477fb845a735" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +64,13 @@
       <workItem from="1604882093553" duration="4024000" />
       <workItem from="1604923409374" duration="237000" />
       <workItem from="1604925167790" duration="4103000" />
-      <workItem from="1604948129765" duration="7402000" />
+      <workItem from="1604948129765" duration="7813000" />
+      <workItem from="1605105707455" duration="561000" />
+      <workItem from="1605132679203" duration="599000" />
+      <workItem from="1605533096614" duration="1303000" />
+      <workItem from="1605619560641" duration="64000" />
+      <workItem from="1608467206340" duration="10883000" />
+      <workItem from="1608661724083" duration="979000" />
     </task>
     <servers />
   </component>
@@ -80,10 +82,12 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="625" y="332" width="661" height="436" key="EditFileWatcherDialog/1920.312.1366.768/0.25.1920.1055@0.25.1920.1055" timestamp="1604883979467" />
-    <state x="466" y="155" width="426" height="479" key="FileChooserDialogImpl" timestamp="1603975802632">
-      <screen x="0" y="25" width="1366" height="743" />
+    <state x="655" y="210" width="426" height="479" key="FileChooserDialogImpl" timestamp="1608469266197">
+      <screen x="0" y="25" width="1920" height="1055" />
     </state>
+    <state x="466" y="155" key="FileChooserDialogImpl/0.25.1366.743/0.25.1366.743@0.25.1366.743" timestamp="1605619617396" />
     <state x="466" y="155" width="426" height="479" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1603975802632" />
+    <state x="655" y="210" key="FileChooserDialogImpl/1920.312.1366.768/0.25.1920.1055@0.25.1920.1055" timestamp="1608469266197" />
     <state x="464" y="188" key="SettingsEditor" timestamp="1604883975901">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
