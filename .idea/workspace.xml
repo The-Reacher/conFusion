@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="48de7303-b864-43c5-9bae-477fb845a735" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,34 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager" selected="npm.test">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,6 +100,7 @@
       <workItem from="1605619560641" duration="64000" />
       <workItem from="1608467206340" duration="10883000" />
       <workItem from="1608661724083" duration="979000" />
+      <workItem from="1608907240739" duration="3361000" />
     </task>
     <servers />
   </component>
@@ -88,6 +118,22 @@
     <state x="466" y="155" key="FileChooserDialogImpl/0.25.1366.743/0.25.1366.743@0.25.1366.743" timestamp="1605619617396" />
     <state x="466" y="155" width="426" height="479" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1603975802632" />
     <state x="655" y="210" key="FileChooserDialogImpl/1920.312.1366.768/0.25.1920.1055@0.25.1920.1055" timestamp="1608469266197" />
+    <state width="1874" height="281" key="GridCell.Tab.0.bottom" timestamp="1608908087863">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="281" key="GridCell.Tab.0.bottom/1920.312.1366.768/0.25.1920.1055@0.25.1920.1055" timestamp="1608908087863" />
+    <state width="1874" height="281" key="GridCell.Tab.0.center" timestamp="1608908087863">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="281" key="GridCell.Tab.0.center/1920.312.1366.768/0.25.1920.1055@0.25.1920.1055" timestamp="1608908087863" />
+    <state width="1874" height="281" key="GridCell.Tab.0.left" timestamp="1608908087862">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="281" key="GridCell.Tab.0.left/1920.312.1366.768/0.25.1920.1055@0.25.1920.1055" timestamp="1608908087862" />
+    <state width="1874" height="281" key="GridCell.Tab.0.right" timestamp="1608908087863">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="281" key="GridCell.Tab.0.right/1920.312.1366.768/0.25.1920.1055@0.25.1920.1055" timestamp="1608908087863" />
     <state x="464" y="188" key="SettingsEditor" timestamp="1604883975901">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
@@ -106,9 +152,10 @@
     </state>
     <state x="346" y="177" key="run.anything.popup/0.25.1366.743@0.25.1366.743" timestamp="1603754921921" />
     <state x="486" y="241" key="run.anything.popup/1920.312.1366.768/0.25.1920.1055@0.25.1920.1055" timestamp="1604884289337" />
-    <state x="623" y="258" width="672" height="678" key="search.everywhere.popup" timestamp="1604927968391">
-      <screen x="0" y="25" width="1920" height="1055" />
+    <state x="2363" y="482" width="672" height="494" key="search.everywhere.popup" timestamp="1608910294935">
+      <screen x="1920" y="312" width="1366" height="768" />
     </state>
     <state x="623" y="258" width="672" height="678" key="search.everywhere.popup/1920.312.1366.768/0.25.1920.1055@0.25.1920.1055" timestamp="1604927968391" />
+    <state x="2363" y="482" width="672" height="494" key="search.everywhere.popup/1920.312.1366.768/0.25.1920.1055@1920.312.1366.768" timestamp="1608910294935" />
   </component>
 </project>
